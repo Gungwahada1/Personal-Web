@@ -1131,6 +1131,15 @@ ul.portfolio-image li .desc {
   background: #2b2b2b;
   color: #ffffff;
 }
+#contact form .confirmation {
+  text-align: center;
+}
+#contact .confirmation .success {
+  color: #22bb33;
+}
+#contact .confirmation .failed {
+  color: #bb2124;
+}
 @-webkit-keyframes inputHighlighter {
   from {
     background: #5264ae;
